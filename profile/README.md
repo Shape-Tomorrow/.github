@@ -5,7 +5,7 @@
 
 <br>
 
-**Shape Tomorrow** maakt van ideeën werkende oplossingen. We beginnen bij een schets, geven die samen met onze opdrachtgevers vorm en bouwen door tot er iets staat dat werkt.
+**Shape Tomorrow** bouwt software met AI als vaste kracht in het team. We beginnen bij een schets, geven die samen met onze opdrachtgevers vorm en bouwen door tot er iets staat dat werkt. AI versnelt elke stap, onze ontwikkelaars bepalen de richting en bewaken de kwaliteit.
 
 ### Hoe we werken
 
@@ -14,17 +14,17 @@
     <td width="33%" valign="top">
       <img src="assets/schets.svg" width="40" alt=""><br>
       <b>1. Verkennen</b><br>
-      We brengen het vraagstuk in kaart en maken een eerste schets. Zo weet iedereen waar we naartoe werken.
+      Een werkend prototype in plaats van een dik document. Met AI staat er snel iets wat je kunt aanklikken, zodat je beslist op basis van echte ervaring.
     </td>
     <td width="33%" valign="top">
       <img src="assets/vorm.svg" width="40" alt=""><br>
-      <b>2. Ontwerpen</b><br>
-      We werken de schets uit tot een ontwerp en toetsen het vroeg bij de mensen die het gaan gebruiken.
+      <b>2. Vormgeven</b><br>
+      We werken het prototype uit en toetsen het bij de mensen die het gaan gebruiken. Omdat aanpassen snel gaat, kunnen we vaker bijsturen.
     </td>
     <td width="33%" valign="top">
       <img src="assets/volume.svg" width="40" alt=""><br>
       <b>3. Bouwen</b><br>
-      We bouwen het resultaat, leveren het op en zorgen dat het blijft werken.
+      AI schrijft mee, onze ontwikkelaars beslissen. Elke wijziging wordt getest en beoordeeld, zodat je software krijgt die je jaren kunt onderhouden.
     </td>
   </tr>
 </table>
